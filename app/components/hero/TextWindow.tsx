@@ -26,7 +26,7 @@ const TextWindow = () => {
   return (
     <group position={[0, -0.3, 0]} ref={windowRef}>
 
-      <Text color="white" anchorX="left" anchorY="middle"
+            <Text color="white" anchorX="left" anchorY="middle"
         fontSize={1.3}
         position={[0.12, 0, 0]}
         {...fontProps}
@@ -50,7 +50,7 @@ const TextWindow = () => {
           scale={[1, -1, 1]}
           fontSize={0.8}
           rotation={[0, -Math.PI / 2,  -Math.PI / 2]}>
-          DESIGNER. DUMBASS.
+          BACKEND ENGINEER
         </Text>
 
         <Text color="white" anchorX="left" anchorY="middle"
@@ -59,7 +59,7 @@ const TextWindow = () => {
           fontSize={0.8}
           position={[0, 0, -0.6]}
           rotation={[0, -Math.PI / 2,  -Math.PI / 2]}>
-          DJ. MELOMANIAC
+          LOVE EDM. MUSIC
         </Text>
       </group>
 
