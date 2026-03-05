@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Zaidan Rafli - Frontend Engineer",
     description: "Frontend Developer & Game Developer.",
-    url: "https://zayzaidan.vercel.app",
+    url: "https://tes-mu-self.vercel.app/",
     siteName: "Zaidan Rafli's Portfolio",
     locale: "en_US",
     type: "website",
