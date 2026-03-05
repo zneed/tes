@@ -14,12 +14,12 @@ const vercettiFont = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Mohit Virli ✌️",
-  description: "A frontend developer by profession, a creative at heart.",
-  keywords: "Mohit Virli, Frontend Engineer, React Developer, Three.js, Creative Developer, Web Development, Angular, JavaScript, TypeScript, Portfolio",
-  authors: [{ name: "Mohit Virli" }],
-  creator: "Mohit Virli",
-  publisher: "Mohit Virli",
+  title: "Zaidan Rafli",
+  description: "Frontend Developer & Game Developer.",
+  keywords: "Zaidan Rafli, Frontend Developer, Game Developer, React, Three.js, JavaScript, TypeScript, Portfolio",
+  authors: [{ name: "Zaidan Rafli" }],
+  creator: "Zaidan Rafli",
+  publisher: "Zaidan Rafli",
   formatDetection: {
     email: false,
     address: false,
@@ -36,17 +36,17 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Mohit Virli - Frontend Engineer",
-    description: "Frontend engineer by profession, creative at heart.",
-    url: "https://mohitvirli.github.io",
-    siteName: "Mohit Virli's Portfolio",
+    title: "Zaidan Rafli - Frontend Engineer",
+    description: "Frontend Developer & Game Developer.",
+    url: "https://zayzaidan.vercel.app",
+    siteName: "Zaidan Rafli's Portfolio",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mohit Virli - Frontend Engineer",
-    description: "Frontend engineer by profession, creative at heart.",
+    title: "Zaidan Rafli's - Frontend Engineer",
+    description: "Frontend Developer & Game Developer.",
   },
   verification: {
     google: "GsRYY-ivL0F_VKkfs5KAeToliqz0gCrRAJKKmFkAxBA",
